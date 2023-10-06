@@ -104,7 +104,7 @@ const Confirm = observer(() => {
               >
                 <Translation
                   lang={settings?.language}
-                  value="Enter code sent to your email"
+                  value="Enter code sent to your email address"
                 />
               </Input.Password>
               <Spacer h={1.5} />
